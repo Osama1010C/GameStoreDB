@@ -19,7 +19,7 @@ The project simulates a complete online game store experience with:
 
 ## 🧱 Database Highlights
 
-✅ Designed using **30+ normalized relational tables** in SQL Server  
+✅ Designed using **30 normalized relational tables** in SQL Server  
 ✅ Covers key features of a **real e-commerce & social media hybrid platform**
 
 ---
@@ -71,38 +71,14 @@ The project simulates a complete online game store experience with:
 
 ---
 
-## 🗃️ Tables Breakdown (Examples)
-- `Users`, `Roles`, `Companies`
-- `Games`, `GameCategories`, `GameRatings`
-- `Orders`, `OrderDetails`, `Gifts`
-- `Posts`, `Comments`, `Reactions`
-- `Reports`, `BlockedUsers`, `ModerationActions`
-- `UserMessages`, `SupportTickets`
-- `Favorites`, `Wishlists`, `UserGames`
-
-> And many more supporting and relation tables to ensure data integrity and scalability.
-
----
 
 ## 🔧 Tech Stack
 
 | Layer          | Technology     |
 |----------------|----------------|
 | Database       | SQL Server     |
-| Backend Logic  | SQL Procedures, Functions, Views, Triggers |
-| Future Plans   | ASP.NET Core API + React Frontend |
+| Backend Logic  | SQL Procedures, Functions, Views |
 
----
-
-## 🚀 Learning Goals
-
-- Master **real-world database design**
-- Understand **data relationships** and **normalization**
-- Apply **SQL Server capabilities** like triggers, views, stored procedures
-- Simulate **e-commerce + social features** in one system
-- Prepare for scalable backend systems using `.NET`
-
----
 
 ## 📷 ERD & Schema Preview
 
