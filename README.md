@@ -65,7 +65,6 @@ The project simulates a complete online game store experience with:
 - Users can report:
   - Other users
   - Games
-  - Posts
 - Admins and moderators review reports and take appropriate actions
 - Blocking and warning system
 
