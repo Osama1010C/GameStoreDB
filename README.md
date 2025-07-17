@@ -110,27 +110,4 @@ The project simulates a complete online game store experience with:
 
 ---
 
-## 🧠 Lessons Learned
 
-> Building a large-scale database teaches more than just SQL—it builds **thinking in systems**, **problem-solving**, and **real-world data modeling** skills.
-
----
-
-## 🏁 Status
-
-✅ Schema Design: **Done**  
-🔄 In Progress: Data Seeding, Procedures, Views  
-📈 Planned: API + Frontend Development (ASP.NET Core + React)
-
----
-
-## 📬 Contact
-
-> Built with 💻 by Osama  
-Feel free to connect or give feedback!
-
----
-
-## 📎 Tags
-
-`#SQLServer` `#DatabaseDesign` `#GameStore` `#SocialPlatform` `#BackendDevelopment` `#LearningInPublic`
