@@ -106,7 +106,7 @@ The project simulates a complete online game store experience with:
 
 ## 📷 ERD & Schema Preview
 
-[Include your ERD or schema diagram here if available]
+![ERD Diagram](.ERD.png)
 
 ---
 
