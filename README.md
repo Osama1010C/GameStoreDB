@@ -1,6 +1,6 @@
 # 🎮 Game Store & Social Platform - SQL Server Project
 
-Welcome to my full-fledged **Game Store** database project inspired by platforms like **Steam**, but with extended **social media features**. This project is part of my backend development training, using **SQL Server** to design and implement a real-world relational database model.
+Welcome to my full-fledged **Game Store** database project inspired by platforms like **Steam** with extended **social media features**. This project is part of my backend development training, using **SQL Server** to design and implement a real-world relational database model.
 
 ---
 
